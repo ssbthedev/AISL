@@ -2,6 +2,10 @@
 
 *2nd Place Winner at HackMCST VII*
 
+This project was a collaborative effort and could not have been done with out the dedication and effort of:
+
+[@SaakshiMunot](https://github.com/SaakshiMunot/) [@caitlynparrish-lewis](https://github.com/caitlynparrish-lewis)
+
 ## Inspiration
 
 All three members of our team do not know ASL. Because of this, we recognized the need to bridge the gap between non-ASL users and ASL users. Communication is a key aspect of our society, so it is necessary that we are able to communicate with as many people we can, despite language barriers that may be present. We hope that we can encourage communication between all personnel.
