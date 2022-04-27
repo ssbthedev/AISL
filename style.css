@@ -1,0 +1,65 @@
+body{
+  background-image: url("BRW.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#heading{
+  color: black;
+  text-align: left;
+  font-family: 'Sigmar One', cursive; 
+  font-size: 75px;
+}
+
+button {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Sigmar One', cursive; 
+  border: none;
+  color: white;
+/*   padding: 15px 32px; */
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  background-color: white;
+  color: black;
+  border: 2px solid #555555;
+}
+
+button:hover {
+  background-color: #555555;
+  color: white;
+}
+#webcam-container{
+  text-align: center;
+  border-color: red;
+}
+#label-container{
+  width: 500px;
+  left: 50%;
+/*   border: 5px solid black;  */
+  position: absolute;
+  column-count: 4;
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: bold;
+  text-align: center;
+  min-height: 10vh;
+  transform: translate(-50%, 0%);
+  top: 65vh;
+  left: 50vw;
+}
+
+#bestFitForLetter{
+  color: black;
+  background-color: white;
+  position: absolute;
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: bold;
+  left: 50vw;
+  top: 85vh;
+  transform: translate(-50%, 0%);
+  text-align: center;
+  font-size: 30px;
+}
